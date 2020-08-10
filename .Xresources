@@ -1,0 +1,76 @@
+URxvt.font: xft:JetBrainsMono Nerd Font:size = 12
+URxvt.scrollBar: false
+
+! Background and foreground
+*background: #282828
+*foreground: #ebdbb2
+
+! Black and DarkGrey 
+*color0: #3c3836
+*color8: #665c54
+! DarkRed + Red
+*color1: #cc241d
+*color9: #fb4934
+! DarkGreen + Green
+*color2: #98971a
+*color10: #b8bb26
+! DarkYellow + Yellow
+*color3: #d79921
+*color11: #fabd2f
+! DarkBlue + Blue
+*color4: #458588
+*color12: #83a598
+! DarkMagenta + Magenta
+*color5: #b16286
+*color13: #d3869b
+! DarkCyan + Cyan
+*color6: #689d6a
+*color14: #8ec07c
+! LightGrey + White
+*color7: #bdae93
+*color15: #fbf1c7
+
+! Grayscale from darkest to lightest
+*color16: #504945
+*color17: #7c6f64
+*color18: #a89984
+*color19: #d5c4a1
+
+
+! Color definitions
+
+! Background and foreground
+URxvt*background: #282828
+URxvt*foreground: #ebdbb2
+
+! Black and DarkGrey 
+URxvt*color0: #3c3836
+URxvt*color8: #665c54
+! DarkRed + Red
+URxvt*color1: #cc241d
+URxvt*color9: #fb4934
+! DarkGreen + Green
+URxvt*color2: #98971a
+URxvt*color10: #b8bb26
+! DarkYellow + Yellow
+URxvt*color3: #d79921
+URxvt*color11: #fabd2f
+! DarkBlue + Blue
+URxvt*color4: #458588
+URxvt*color12: #83a598
+! DarkMagenta + Magenta
+URxvt*color5: #b16286
+URxvt*color13: #d3869b
+! DarkCyan + Cyan
+URxvt*color6: #689d6a
+URxvt*color14: #8ec07c
+! LightGrey + White
+URxvt*color7: #bdae93
+URxvt*color15: #fbf1c7
+
+! Grayscale from darkest to lightest
+URxvt*color16: #504945
+URxvt*color17: #7c6f64
+URxvt*color18: #a89984
+URxvt*color19: #d5c4a1
+

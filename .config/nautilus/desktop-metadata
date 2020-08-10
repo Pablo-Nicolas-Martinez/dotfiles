@@ -1,0 +1,24 @@
+[directory]
+nautilus-icon-view-keep-aligned=true
+nautilus-icon-view-layout-timestamp=1587309977
+nautilus-desktop-icon-size=48
+
+[trash]
+nautilus-icon-position-timestamp=1587309977
+nautilus-icon-position=56,26
+icon-scale=1
+
+[UBUNTU 18_0.volume]
+nautilus-icon-position-timestamp=1587296453
+nautilus-icon-position=56,146
+icon-scale=1
+
+[Disco de sonido.volume]
+nautilus-icon-position=56,286
+icon-scale=1
+nautilus-icon-position-timestamp=1587294531
+
+[Disco de sonido.volume.2]
+nautilus-icon-position=56,426
+icon-scale=1
+nautilus-icon-position-timestamp=1587295393

@@ -1,0 +1,7 @@
+[Added Associations]
+image/jpeg=gimp_gimp.desktop;firefox.desktop;
+video/mp4=vlc_vlc.desktop;
+text/x-tex=nvim.desktop;texstudio.desktop;
+text/x-pascal=vim.desktop;
+application/vnd.ms-excel=atom_atom.desktop;
+text/x-c++src=nvim.desktop;
